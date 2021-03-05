@@ -1,0 +1,36 @@
+>gi|47213867| Tetraodon nigroviridis one other sequence with H i.e.- 47225967
+>gi|583984737| Neolamprologus brichardi two other sequences with H - 584027035
+>gi|908460483| Oreochromis niloticus two other sequences with H  - 542215959
+>gi|657541719| Stegastes partitus two other sequences with H - 657583808
+>gi|831552181| Fundulus heteroclitus two other sequences with H - 831524211
+>gi|736297334| Notothenia coriiceps - NO H
+>gi|808883294| Larimichthys crocea two other sequences with H - 734608261
+>gi|941818356| Xiphophorus maculatus - one other sequence with H - 551521202
+>gi|1041118818| Kryptolebias marmoratus two other sequences with H - 1041101752
+>gi|928024186| Austrofundulus limnaeus three sequences with H - 928030510
+>gi|657759540| Cynoglossus semilaevis one other sequence with H - 657754609
+>gi|768941702| Takifugu rubripes three othre sequences with H - 410895973
+>gi|642098141|, gi|642122571| Oncorhynchus mykiss - NO H
+>gi|742107637| Esox lucius one other sequence with H - 742094309
+>gi|573895534| Lepisosteus oculatus - NO H
+>gi|704473554| Pterocles gutturalis - NO H
+>gi|591347175| Panthera tigris - NO H
+>gi|961742645| Acinonyx jubatus one sequence NO H
+>gi|795224613| Cercocebus atys three other sequences with H - 795224567
+>gi|444727328| Tupaia chinensis incorrect domain trimming  
+>gi|528769302| Camelus ferus incorrect domain trimming 
+>gi|953871685| Equus caballus multiple sequences with H - 149750933
+>gi|982966194| Bos taurus muliple sequences with H - 529005913
+>gi|676418131| Corvus brachyrhynchos two other sequences with H - 67642424801
+>gi|675412723| Manacus vitellinus two other sequences with H - 679187744
+>gi|727058423| Corvus cornix two other sequences with H - 727000363
+>gi|959077380| Sturnus vulgaris - four other sequences with H - 959083756
+>gi|632943699| Callorhinchus milii two other sequences with H - 632952339
+>gi|597787526| Astyanax mexicanus NO H
+>gi|1042263637| Ictalurus punctatus one other sequence with H - 1042242166
+>gi|1025383628| Sinocyclocheilus rhinocerous four other sequences with H - 1025195622
+>gi|1020509137| Sinocyclocheilus grahami three other sequences with H - 1020522914
+>gi|699242781| Ciona intestinalis NO H
+>gi|313232570| Oikopleura dioica NO H
+>gi|765111259| Oryzias latipes NO H
+>gi|594071827| Bubalus bubalis incorrect domain trimming 
